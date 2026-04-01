@@ -4,6 +4,16 @@ MediShop Manager is a modern, responsive web application built with **Streamlit*
 
 With an optimized backend designed to smoothly handle large-scale datasets (including Kaggle's 250,000+ medicine records), MediShop provides a lightning-fast experience for tracking low stock, managing customer billing, monitoring expirations, and analyzing shop revenue!
 
+## 📸 App Gallery
+
+| Dashboard | Inventory |
+| :---: | :---: |
+| ![Dashboard](assets/dashboard.png) | ![Inventory](assets/inventory.png) |
+| **Billing (Point of Sale)** | **Customers** |
+| ![Billing](assets/billing.png) | ![Customers](assets/customers.png) |
+| **Bills History** | |
+| ![Bills History](assets/bills_history.png) | |
+
 ## 🌟 Key Features
 
 - **📊 Live Dashboard**: Instant overview of today's revenue, total medicines loaded, low stock alerts, and expiring medicines.
