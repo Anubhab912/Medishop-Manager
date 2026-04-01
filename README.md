@@ -2,7 +2,7 @@
 
 MediShop Manager is a modern, responsive web application built with **Streamlit** and **PostgreSQL** that completely digitizes the inventory and billing processes of a medical shop.
 
-With an optimized backend designed to smoothly handle large-scale datasets (including Kaggle's 250,000+ medicine records), MediShop provides a lightning-fast experience for tracking low stock, managing customer billing, monitoring expirations, and analyzing shop revenue!
+With an optimized backend designed to smoothly handle large-scale datasets (including Kaggle's 250,000+ medicine records), MediShop provides a lightning-fast experience for tracking low stock, managing customer billing, monitoring expirations, and analyzing shop revenue.
 
 ## 🌟 Key Features
 
