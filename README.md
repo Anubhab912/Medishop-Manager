@@ -4,16 +4,6 @@ MediShop Manager is a modern, responsive web application built with **Streamlit*
 
 With an optimized backend designed to smoothly handle large-scale datasets (including Kaggle's 250,000+ medicine records), MediShop provides a lightning-fast experience for tracking low stock, managing customer billing, monitoring expirations, and analyzing shop revenue!
 
-## 📸 App Gallery
-
-| Dashboard | Inventory |
-| :---: | :---: |
-| ![Dashboard](assets/dashboard.png) | ![Inventory](assets/inventory.png) |
-| **Billing (Point of Sale)** | **Customers** |
-| ![Billing](assets/billing.png) | ![Customers](assets/customers.png) |
-| **Bills History** | |
-| ![Bills History](assets/bills_history.png) | |
-
 ## 🌟 Key Features
 
 - **📊 Live Dashboard**: Instant overview of today's revenue, total medicines loaded, low stock alerts, and expiring medicines.
@@ -72,6 +62,16 @@ Want to populate the app with real data?
 2. Create a folder named exactly `data/` in the root of the project directory.
 3. Place your `.csv` file inside `data/`.
 4. Run the app, and you'll immediately see a prompt guiding you to the in-app importer to securely stream 250k+ records straight into your DB.
+
+## 📸 App Gallery
+
+| Dashboard | Inventory |
+| :---: | :---: |
+| ![Dashboard](assets/dashboard.png) | ![Inventory](assets/inventory.png) |
+| **Billing (Point of Sale)** | **Customers** |
+| ![Billing](assets/billing.png) | ![Customers](assets/customers.png) |
+| **Bills History** | |
+| ![Bills History](assets/bills_history.png) | |
 
 ## 👨‍💻 Author
 **Anubhab Das**  
